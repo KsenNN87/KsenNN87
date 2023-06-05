@@ -7,5 +7,7 @@
 
 👯 В настоящий момент активно ищу работу.
 
-Инструменты:
-Python(библиотеки Pandas, Matplotlib, Seaborn, NumPy, SciPy, Sklearn, Keras), SQL.
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| SQL       |
